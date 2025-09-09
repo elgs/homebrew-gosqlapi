@@ -1,15 +1,15 @@
-# Elgs Gosqlapi
+# elgs/homebrew-taps
 
 ## How do I install these formulae?
 
-`brew install elgs/gosqlapi/<formula>`
+`brew install elgs/taps/<formula>`
 
-Or `brew tap elgs/gosqlapi` and then `brew install <formula>`.
+Or `brew tap elgs/taps` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "elgs/gosqlapi"
+tap "elgs/taps"
 brew "<formula>"
 ```
 

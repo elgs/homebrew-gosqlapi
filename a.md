@@ -1,5 +1,5 @@
 ```sh
-gh repo create elgs/homebrew-gosqlapi --push --public --source "$(brew --repository elgs/homebrew-gosqlapi)"
+gh repo create elgs/homebrew-taps --push --public --source "$(brew --repository elgs/homebrew-taps)"
 ```
 
 
@@ -14,7 +14,7 @@ Great! If you want Homebrew to **build from source** (not download a binary), yo
 
 ### 1. **Create a Homebrew Tap Repo**
 
-Create a new GitHub repo named `homebrew-gosqlapi`.
+Create a new GitHub repo named `homebrew-taps`.
 
 ---
 
