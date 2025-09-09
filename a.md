@@ -54,7 +54,7 @@ end
 In your project repo, create a tag and push it:
 
 ```sh
-git tag v0.1.0
+git tag v0.0.47
 git push --tags
 ```
 
