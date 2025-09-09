@@ -2,7 +2,6 @@ class Gosqlapi < Formula
   desc "Turns any SQL database into a RESTful API"
   homepage "https://github.com/elgs/gosqlapi"
   url "https://github.com/elgs/gosqlapi.git", tag: "v0.0.46"
-  version "0.0.46"
   license "MIT"
 
   depends_on "go" => :build
