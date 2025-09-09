@@ -30,7 +30,6 @@ class Gosqlapi < Formula
   desc "SQL API server written in Go"
   homepage "https://github.com/<yourusername>/gosqlapi"
   url "https://github.com/<yourusername>/gosqlapi.git", tag: "v0.1.0"
-  version "0.1.0"
   license "MIT"
 
   depends_on "go" => :build
